@@ -71,7 +71,7 @@ The following types of testing were performed:
 
 ## 🚀 Author
 **Umme Jami**  
-Aspiring SQA Engineer  
+
 
 ---
 
