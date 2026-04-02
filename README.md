@@ -32,9 +32,9 @@ The following types of testing were performed:
 
 | Metric            | Count |
 |------------------|------|
-| Total Test Cases | 15   |
-| Passed           | X    |
-| Failed           | X    |
+| Total Test Cases | 17  |
+| Passed           | 6   |
+| Failed           | 11   |
 | Blocked          | 0    |
 
 > ⚠️ Note: Multiple high-severity issues were identified.
